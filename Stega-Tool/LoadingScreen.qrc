@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="photoss">
+    <file>Photos/12.png</file>
+    <file>Photos/binary.png</file>
+    <file>Photos/sand-clock.png</file>
+  </qresource>
+</RCC>

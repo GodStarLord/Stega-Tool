@@ -1,0 +1,14 @@
+Steganography is the art and science of writing hidden messages in such a way that no one, 
+apart from the sender and intended recipient, suspects the existence of the message.
+Steganography, in general, relies on the imperfection of the human auditory and visual systems.
+
+Stega-Tool is a software which implements steganography using image (.png) files.
+This software can hide message files inside a audio file by using the Least Significant Bit Algorithm.
+
+
+
+This is built by,
+	1. Preeti
+	2. Ujwal N M
+	3. Surakshita
+	4. Vaibhav Patil
