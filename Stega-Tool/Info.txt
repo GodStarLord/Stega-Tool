@@ -3,7 +3,7 @@ apart from the sender and intended recipient, suspects the existence of the mess
 Steganography, in general, relies on the imperfection of the human auditory and visual systems.
 
 Stega-Tool is a software which implements steganography using image (.png) files.
-This software can hide message files inside a audio file by using the Least Significant Bit Algorithm.
+This software can hide message files inside a image file by using the Least Significant Bit Algorithm.
 
 
 
