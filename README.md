@@ -8,7 +8,7 @@ Install all the necessary python modules before executing the program...
 	pip install pycryptodome
 
 2. PyQt5 :
-	pip install PyQt5
+	pip install PyQt5 , 
 	pip install PyQt5-sip
 
 3. For designing download and install PyQt :
