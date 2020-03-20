@@ -73,7 +73,6 @@ class Decrypt_Screen(QMainWindow, FROM_CLASS):
         
         if (key_box != '') and (image != ''):
             try:
-                QMessageBox.about(self, 'wait', 'waiting....')
                 clear_message = lsb.reveal(image)
                 clear_message_byte = str.encode(clear_message)  #Convert String to Byte
                 decrypted_text = PrpCrypt(key_box).decrypt(clear_message_byte)
