@@ -13,3 +13,7 @@ Install all the necessary python modules before executing the program...
 
 3. For designing download and install PyQt :
 	https://sourceforge.net/projects/pyqt/
+
+
+
+Run the tool.py using python tool.py command
