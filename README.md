@@ -16,4 +16,4 @@ Install all the necessary python modules before executing the program...
 
 
 
-Run the tool.py using python tool.py command
+Run the tool.py using " python tool.py " command
