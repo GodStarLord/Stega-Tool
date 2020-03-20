@@ -75,7 +75,6 @@ class Encrypt_Screen(QMainWindow, FROM_CLASS):
         #Start Encryption
         if (key_box != '') and (message != '') and (path_save != '') and (image != ''):
             try:
-                QMessageBox.about(self, 'wait', 'waiting....')
                 cipher_text_byte = PrpCrypt(key_box).encrypt(message)  #Encrypted Message
                 cipher_text_str = cipher_text_byte.decode()     #Covert Byte to String
                     
